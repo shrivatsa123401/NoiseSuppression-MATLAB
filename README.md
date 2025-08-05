@@ -35,24 +35,9 @@ This project implements a deep learning-based approach for speech enhancement by
 ##  Getting Started
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/NoiseSuppressionProject.git
-   cd NoiseSuppressionProject
-   ```
-
 2. **Prepare Data**
-   - Place your `clean/` and `noisy/` audio files inside the `data/` folder.
-
 3. **Run Training**
-   ```matlab
-   run('scripts/trainModel.m')
-   ```
-
 4. **Run Testing**
-   ```matlab
-   run('scripts/testModel.m')
-   ```
-
 ---
 
 ##  Results
